@@ -2,6 +2,6 @@ Installation and use guide:
   Join a Roblox game and run "Custom Map Importer.exe"
   A file named "StudioPlugin.lua" should generate.  Put this in your Roblox Studio Plugins Folder
   -Use the plugin to Export maps!
-  Input either raw JSON data, or a pastebin code, and click Import!
+  Input either raw JSON data, or a pastebin code (example:'vm0fY980'), and click Import!
 
 Note: It is recommended to disable Map Scripts, as they can cause Roblox to crash occasionally.
